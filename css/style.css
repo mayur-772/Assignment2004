@@ -1,0 +1,12 @@
+/* Mayurkumar Yadav Student ID:8911436 */
+body{
+    font:normal normal normal 12px/1.5 Verdana,Arial,Helvetica,sans-serif;
+    height: 100vh;
+    width: 100vw;
+    background-color:hsla(200, 45%, 81%, 0.7);
+
+}
+h2{
+    font-size: 2rem;
+    color:#409;
+}
